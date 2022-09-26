@@ -26,4 +26,3 @@ and pv.DistributionNetworkId = 1
 group by pv.id,
 		 pv.name
 
---order by 3 desc
